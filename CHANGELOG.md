@@ -10,6 +10,10 @@ Inspired from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Fixed
 ### Security
 
+## [3.4.0]
+### Added
+- Added `script_score` to Query DSL ([#254](https://github.com/opensearch-project/opensearch-ruby/pull/254))
+
 ## [3.3.0]
 ### Changed
 - Bump GitHub Actions ([#248](https://github.com/opensearch-project/opensearch-ruby/pull/248))
